@@ -159,8 +159,6 @@ Balance change: any change in the balance, monthly fee on balance or payment fro
 
 schedule: from 1 day to 5 days with starting hour per each day, per week, fixed. can't be edited by the patient. (viewable by Doc, Sec, and the specific patient)
 
-first appointment: first time appointment date and time
-
 attendance for schedule appointments: date, time did he attend or not, compensate or not
 
 update: a confidential document, it contains a Word file and some numerical scores (more will come when we tackle it) can be seen by the doctor and patient only, it is created by the Doctor every month or two that gets sent by email upon creation. with a date and time for an update session
