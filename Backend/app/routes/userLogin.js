@@ -33,9 +33,11 @@ router.post("/", function (req, res, next) {
       res.json({ message: "ok", token: token });
     } else {
       res.status(401).json({ error_message: "passwords did not match" });
+      return; 
     }
   } else {
     res.status(401).json({ error_message: "no such user found" });
+    return;
   }
 });
 

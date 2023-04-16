@@ -1,0 +1,1853 @@
+2023-04-16T11:47:37.333Z [WARN]: Application warning
+2023-04-16T11:47:37.334Z [ERROR]: Application error
+2023-04-16T11:48:11.308Z [WARN]: Application warning
+2023-04-16T11:48:11.309Z [ERROR]: Application error
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+{"level":"warn","message":"Application warning","timestamp":"2023-04-16T11:50:30.250Z"}
+{"level":"error","message":"Application error","timestamp":"2023-04-16T11:50:30.252Z"}
+{"level":"warn","message":"Application warning","timestamp":"2023-04-16T11:50:32.185Z"}
+{"level":"error","message":"Application error","timestamp":"2023-04-16T11:50:32.185Z"}
+{"level":"warn","message":"Application warning","timestamp":"2023-04-16T11:50:49.414Z"}
+{"level":"error","message":"Application error","timestamp":"2023-04-16T11:50:49.415Z"}
+{"level":"warn","message":"Application warning","timestamp":"2023-04-16T11:50:50.142Z"}
+{"level":"error","message":"Application error","timestamp":"2023-04-16T11:50:50.144Z"}
+{"level":"warn","message":"Application warning","timestamp":"2023-04-16T11:51:32.978Z"}
+{"level":"error","message":"Application error","timestamp":"2023-04-16T11:51:32.980Z"}
+{"level":"warn","message":"Application warning","timestamp":"2023-04-16T11:51:33.617Z"}
+{"level":"error","message":"Application error","timestamp":"2023-04-16T11:51:33.618Z"}
+{
+  level: 'warn',
+  message: 'Application warning',
+  metadata: { timestamp: '2023-04-16T11:51:54.381Z' }
+}
+{
+  level: 'error',
+  message: 'Application error',
+  metadata: { timestamp: '2023-04-16T11:51:54.385Z' }
+}
+{
+  level: 'warn',
+  message: 'Application warning',
+  metadata: { timestamp: '2023-04-16T11:51:55.507Z' }
+}
+{
+  level: 'error',
+  message: 'Application error',
+  metadata: { timestamp: '2023-04-16T11:51:55.510Z' }
+}
+{
+  level: 'warn',
+  message: 'Application warning',
+  metadata: { timestamp: '2023-04-16T11:51:56.222Z' }
+}
+{
+  level: 'error',
+  message: 'Application error',
+  metadata: { timestamp: '2023-04-16T11:51:56.223Z' }
+}
+{
+  level: 'warn',
+  message: 'Application warning',
+  metadata: { timestamp: '2023-04-16T11:52:14.236Z' }
+}
+{
+  level: 'error',
+  message: 'Application error',
+  metadata: { timestamp: '2023-04-16T11:52:14.239Z' }
+}
+{
+  level: 'warn',
+  message: 'Application warning',
+  metadata: { timestamp: '2023-04-16T11:53:46.215Z' }
+}
+{
+  level: 'error',
+  message: 'Application error',
+  metadata: { timestamp: '2023-04-16T11:53:46.217Z' }
+}
+{
+  level: 'warn',
+  message: 'Application warning',
+  metadata: { timestamp: '2023-04-16T11:53:48.070Z' }
+}
+{
+  level: 'error',
+  message: 'Application error',
+  metadata: { timestamp: '2023-04-16T11:53:48.071Z' }
+}
+{
+  level: 'warn',
+  message: 'Application warning',
+  metadata: { timestamp: '2023-04-16T11:53:52.353Z' }
+}
+{
+  level: 'error',
+  message: 'Application error',
+  metadata: { timestamp: '2023-04-16T11:53:52.360Z' }
+}
+{
+  level: 'warn',
+  message: 'Application warning',
+  metadata: { timestamp: '2023-04-16T11:53:53.481Z' }
+}
+{
+  level: 'error',
+  message: 'Application error',
+  metadata: { timestamp: '2023-04-16T11:53:53.483Z' }
+}
+{
+  level: 'warn',
+  message: 'Application warning',
+  metadata: { timestamp: '2023-04-16T11:53:57.348Z' }
+}
+{
+  level: 'error',
+  message: 'Application error',
+  metadata: { timestamp: '2023-04-16T11:53:57.350Z' }
+}
+{
+  level: 'warn',
+  message: 'Application warning',
+  metadata: { timestamp: '2023-04-16T11:53:58.948Z' }
+}
+{
+  level: 'error',
+  message: 'Application error',
+  metadata: { timestamp: '2023-04-16T11:53:58.951Z' }
+}
+{
+  level: 'warn',
+  message: 'Application warning',
+  metadata: { timestamp: '2023-04-16T11:53:59.386Z' }
+}
+{
+  level: 'error',
+  message: 'Application error',
+  metadata: { timestamp: '2023-04-16T11:53:59.387Z' }
+}
+{
+  level: 'warn',
+  message: 'Application warning',
+  metadata: { timestamp: '2023-04-16T11:54:00.184Z' }
+}
+{
+  level: 'error',
+  message: 'Application error',
+  metadata: { timestamp: '2023-04-16T11:54:00.186Z' }
+}
+{
+  level: 'warn',
+  message: 'Application warning',
+  metadata: { timestamp: '2023-04-16T11:56:27.086Z' }
+}
+{
+  level: 'error',
+  message: 'Application error',
+  metadata: { timestamp: '2023-04-16T11:56:27.089Z' }
+}
+{
+  level: 'warn',
+  message: 'Application warning',
+  metadata: { timestamp: '2023-04-16T11:56:29.112Z' }
+}
+{
+  level: 'error',
+  message: 'Application error',
+  metadata: { timestamp: '2023-04-16T11:56:29.113Z' }
+}
+{
+  level: 'warn',
+  message: 'Application warning',
+  metadata: { timestamp: '2023-04-16T11:56:53.330Z' }
+}
+{
+  level: 'error',
+  message: 'Application error',
+  metadata: { timestamp: '2023-04-16T11:56:53.332Z' }
+}
+{
+  level: 'warn',
+  message: 'Application warning',
+  metadata: { timestamp: '2023-04-16T11:56:54.990Z' }
+}
+{
+  level: 'error',
+  message: 'Application error',
+  metadata: { timestamp: '2023-04-16T11:56:54.991Z' }
+}
+{
+  level: 'warn',
+  message: 'Application warning',
+  metadata: { timestamp: '2023-04-16T12:02:40.113Z' }
+}
+{
+  level: 'error',
+  message: 'Application error',
+  metadata: { timestamp: '2023-04-16T12:02:40.115Z' }
+}
+{
+  level: 'warn',
+  message: 'Application warning',
+  metadata: { timestamp: '2023-04-16T12:02:42.028Z' }
+}
+{
+  level: 'error',
+  message: 'Application error',
+  metadata: { timestamp: '2023-04-16T12:02:42.029Z' }
+}
+{
+  level: 'warn',
+  message: 'Application warning',
+  metadata: { timestamp: '2023-04-16T12:02:43.121Z' }
+}
+{
+  level: 'error',
+  message: 'Application error',
+  metadata: { timestamp: '2023-04-16T12:02:43.122Z' }
+}
+{
+  level: 'warn',
+  message: 'Application warning',
+  metadata: { timestamp: '2023-04-16T12:02:55.708Z' }
+}
+{
+  level: 'error',
+  message: 'Application error',
+  metadata: { timestamp: '2023-04-16T12:02:55.710Z' }
+}
+{
+  level: 'warn',
+  message: 'Application warning',
+  metadata: { timestamp: '2023-04-16T12:02:57.266Z' }
+}
+{
+  level: 'error',
+  message: 'Application error',
+  metadata: { timestamp: '2023-04-16T12:02:57.268Z' }
+}
+{
+  level: 'warn',
+  message: 'Application warning',
+  metadata: { timestamp: '2023-04-16T12:02:57.724Z' }
+}
+{
+  level: 'error',
+  message: 'Application error',
+  metadata: { timestamp: '2023-04-16T12:02:57.725Z' }
+}
+{
+  level: 'warn',
+  message: 'Application warning',
+  metadata: { timestamp: '2023-04-16T12:04:48.577Z' }
+}
+{
+  level: 'error',
+  message: 'Application error',
+  metadata: { timestamp: '2023-04-16T12:04:48.579Z' }
+}
+{
+  level: 'warn',
+  message: 'Application warning',
+  metadata: { timestamp: '2023-04-16T12:04:50.693Z' }
+}
+{
+  level: 'error',
+  message: 'Application error',
+  metadata: { timestamp: '2023-04-16T12:04:50.694Z' }
+}
+{
+  level: 'warn',
+  message: 'Application warning',
+  metadata: { timestamp: '2023-04-16T12:04:55.792Z' }
+}
+{
+  level: 'error',
+  message: 'Application error',
+  metadata: { timestamp: '2023-04-16T12:04:55.794Z' }
+}
+{
+  level: 'warn',
+  message: 'Application warning',
+  metadata: { timestamp: '2023-04-16T12:04:57.601Z' }
+}
+{
+  level: 'error',
+  message: 'Application error',
+  metadata: { timestamp: '2023-04-16T12:04:57.601Z' }
+}
+{
+  level: 'warn',
+  message: 'Application warning',
+  metadata: { timestamp: '2023-04-16T12:05:00.108Z' }
+}
+{
+  level: 'error',
+  message: 'Application error',
+  metadata: { timestamp: '2023-04-16T12:05:00.110Z' }
+}
+{
+  level: 'warn',
+  message: 'Application warning',
+  metadata: { timestamp: '2023-04-16T12:05:02.184Z' }
+}
+{
+  level: 'error',
+  message: 'Application error',
+  metadata: { timestamp: '2023-04-16T12:05:02.185Z' }
+}
+{
+  level: 'warn',
+  message: 'Application warning',
+  metadata: { timestamp: '2023-04-16T12:06:43.234Z' }
+}
+{
+  level: 'error',
+  message: 'Application error',
+  metadata: { timestamp: '2023-04-16T12:06:43.236Z' }
+}
+{
+  level: 'warn',
+  message: 'Application warning',
+  metadata: { timestamp: '2023-04-16T12:06:45.213Z' }
+}
+{
+  level: 'error',
+  message: 'Application error',
+  metadata: { timestamp: '2023-04-16T12:06:45.214Z' }
+}
+{
+  level: 'warn',
+  message: 'Application warning',
+  metadata: { timestamp: '2023-04-16T12:06:46.225Z' }
+}
+{
+  level: 'error',
+  message: 'Application error',
+  metadata: { timestamp: '2023-04-16T12:06:46.227Z' }
+}
+{
+  level: 'warn',
+  message: 'Application warning',
+  metadata: { timestamp: '2023-04-16T12:06:50.055Z' }
+}
+{
+  level: 'error',
+  message: 'Application error',
+  metadata: { timestamp: '2023-04-16T12:06:50.057Z' }
+}
+{
+  level: 'warn',
+  message: 'Application warning',
+  metadata: { timestamp: '2023-04-16T12:06:50.752Z' }
+}
+{
+  level: 'error',
+  message: 'Application error',
+  metadata: { timestamp: '2023-04-16T12:06:50.753Z' }
+}
+{
+  level: 'warn',
+  message: 'Application warning',
+  metadata: { timestamp: '2023-04-16T12:06:54.321Z' }
+}
+{
+  level: 'error',
+  message: 'Application error',
+  metadata: { timestamp: '2023-04-16T12:06:54.323Z' }
+}
+{
+  level: 'warn',
+  message: 'Application warning',
+  metadata: { timestamp: '2023-04-16T12:06:56.050Z' }
+}
+{
+  level: 'error',
+  message: 'Application error',
+  metadata: { timestamp: '2023-04-16T12:06:56.051Z' }
+}
+{
+  level: 'warn',
+  message: 'Application warning',
+  metadata: { timestamp: '2023-04-16T12:07:02.689Z' }
+}
+{
+  level: 'error',
+  message: 'Application error',
+  metadata: { timestamp: '2023-04-16T12:07:02.691Z' }
+}
+{
+  level: 'warn',
+  message: 'Application warning',
+  metadata: { timestamp: '2023-04-16T12:07:03.890Z' }
+}
+{
+  level: 'error',
+  message: 'Application error',
+  metadata: { timestamp: '2023-04-16T12:07:03.892Z' }
+}
+{
+  level: 'warn',
+  message: 'Application warning',
+  metadata: { timestamp: '2023-04-16T12:07:04.641Z' }
+}
+{
+  level: 'error',
+  message: 'Application error',
+  metadata: { timestamp: '2023-04-16T12:07:04.642Z' }
+}
+{
+  level: 'warn',
+  message: 'Application warning',
+  metadata: { timestamp: '2023-04-16T12:07:13.488Z' }
+}
+{
+  level: 'error',
+  message: 'Application error',
+  metadata: { timestamp: '2023-04-16T12:07:13.490Z' }
+}
+{
+  level: 'warn',
+  message: 'Application warning',
+  metadata: { timestamp: '2023-04-16T12:07:15.636Z' }
+}
+{
+  level: 'error',
+  message: 'Application error',
+  metadata: { timestamp: '2023-04-16T12:07:15.637Z' }
+}
+{
+  level: 'warn',
+  message: 'Application warning',
+  metadata: { timestamp: '2023-04-16T12:09:41.616Z' }
+}
+{
+  level: 'error',
+  message: 'Application error',
+  metadata: { timestamp: '2023-04-16T12:09:41.618Z' }
+}
+{
+  level: 'warn',
+  message: 'Application warning',
+  metadata: { timestamp: '2023-04-16T12:09:41.799Z' }
+}
+{
+  level: 'error',
+  message: 'Application error',
+  metadata: { timestamp: '2023-04-16T12:09:41.800Z' }
+}
+{
+  level: 'warn',
+  message: 'Application warning',
+  metadata: { timestamp: '2023-04-16T12:10:15.240Z' }
+}
+{
+  level: 'error',
+  message: 'Application error',
+  metadata: { timestamp: '2023-04-16T12:10:15.243Z' }
+}
+{
+  level: 'warn',
+  message: 'Application warning',
+  metadata: { timestamp: '2023-04-16T12:10:17.223Z' }
+}
+{
+  level: 'warn',
+  message: 'Application warning',
+  metadata: { timestamp: '2023-04-16T12:10:18.099Z' }
+}
+{
+  level: 'error',
+  message: 'Application error',
+  metadata: { timestamp: '2023-04-16T12:10:18.102Z' }
+}
+{
+  level: 'error',
+  message: 'Application error',
+  metadata: { timestamp: '2023-04-16T12:10:17.224Z' }
+}
+{
+  level: 'warn',
+  message: 'Application warning',
+  metadata: { timestamp: '2023-04-16T12:10:20.376Z' }
+}
+{
+  level: 'error',
+  message: 'Application error',
+  metadata: { timestamp: '2023-04-16T12:10:20.380Z' }
+}
+{
+  level: 'warn',
+  message: 'Application warning',
+  metadata: { timestamp: '2023-04-16T12:10:22.718Z' }
+}
+{
+  level: 'error',
+  message: 'Application error',
+  metadata: { timestamp: '2023-04-16T12:10:22.719Z' }
+}
+{
+  level: 'warn',
+  message: 'Application warning',
+  metadata: { timestamp: '2023-04-16T12:13:06.820Z' }
+}
+{
+  level: 'error',
+  message: 'Application error',
+  metadata: { timestamp: '2023-04-16T12:13:06.823Z' }
+}
+{
+  level: 'warn',
+  message: 'Application warning',
+  metadata: { timestamp: '2023-04-16T12:13:08.893Z' }
+}
+{
+  level: 'error',
+  message: 'Application error',
+  metadata: { timestamp: '2023-04-16T12:13:08.895Z' }
+}
+{
+  level: 'warn',
+  message: 'Application warning',
+  metadata: { timestamp: '2023-04-16T12:13:39.808Z' }
+}
+{
+  level: 'error',
+  message: 'Application error',
+  metadata: { timestamp: '2023-04-16T12:13:39.810Z' }
+}
+{
+  level: 'warn',
+  message: 'Application warning',
+  metadata: { timestamp: '2023-04-16T12:13:41.642Z' }
+}
+{
+  level: 'error',
+  message: 'Application error',
+  metadata: { timestamp: '2023-04-16T12:13:41.643Z' }
+}
+{
+  level: 'warn',
+  message: 'Application warning',
+  metadata: { timestamp: '2023-04-16T12:13:45.313Z' }
+}
+{
+  level: 'error',
+  message: 'Application error',
+  metadata: { timestamp: '2023-04-16T12:13:45.315Z' }
+}
+{
+  level: 'warn',
+  message: 'Application warning',
+  metadata: { timestamp: '2023-04-16T12:13:47.277Z' }
+}
+{
+  level: 'error',
+  message: 'Application error',
+  metadata: { timestamp: '2023-04-16T12:13:47.279Z' }
+}
+{
+  level: 'warn',
+  message: 'Application warning',
+  metadata: { timestamp: '2023-04-16T12:13:50.439Z' }
+}
+{
+  level: 'error',
+  message: 'Application error',
+  metadata: { timestamp: '2023-04-16T12:13:50.441Z' }
+}
+{
+  level: 'warn',
+  message: 'Application warning',
+  metadata: { timestamp: '2023-04-16T12:13:52.169Z' }
+}
+{
+  level: 'error',
+  message: 'Application error',
+  metadata: { timestamp: '2023-04-16T12:13:52.171Z' }
+}
+{
+  level: 'warn',
+  message: 'Application warning',
+  metadata: { timestamp: '2023-04-16T12:13:52.447Z' }
+}
+{
+  level: 'error',
+  message: 'Application error',
+  metadata: { timestamp: '2023-04-16T12:13:52.449Z' }
+}
+{
+  level: 'warn',
+  message: 'Application warning',
+  metadata: { timestamp: '2023-04-16T12:13:55.081Z' }
+}
+{
+  level: 'error',
+  message: 'Application error',
+  metadata: { timestamp: '2023-04-16T12:13:55.083Z' }
+}
+{
+  level: 'warn',
+  message: 'Application warning',
+  metadata: { timestamp: '2023-04-16T12:13:57.164Z' }
+}
+{
+  level: 'error',
+  message: 'Application error',
+  metadata: { timestamp: '2023-04-16T12:13:57.166Z' }
+}
+{
+  level: 'error',
+  message: 'uncaughtException: mo is not defined\n' +
+    'ReferenceError: mo is not defined\n' +
+    '    at Object.<anonymous> (D:\\Desktop\\AlJana\\Backend\\app\\middleware\\logger.js:57:1)\n' +
+    '    at Module._compile (node:internal/modules/cjs/loader:1159:14)\n' +
+    '    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)\n' +
+    '    at Module.load (node:internal/modules/cjs/loader:1037:32)\n' +
+    '    at Module._load (node:internal/modules/cjs/loader:878:12)\n' +
+    '    at Module.require (node:internal/modules/cjs/loader:1061:19)\n' +
+    '    at require (node:internal/modules/cjs/helpers:103:18)\n' +
+    '    at Object.<anonymous> (D:\\Desktop\\AlJana\\Backend\\app\\app.js:30:16)\n' +
+    '    at Module._compile (node:internal/modules/cjs/loader:1159:14)\n' +
+    '    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)',
+  metadata: {
+    error: ReferenceError: mo is not defined
+        at Object.<anonymous> (D:\Desktop\AlJana\Backend\app\middleware\logger.js:57:1)
+        at Module._compile (node:internal/modules/cjs/loader:1159:14)
+        at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+        at Module.load (node:internal/modules/cjs/loader:1037:32)
+        at Module._load (node:internal/modules/cjs/loader:878:12)
+        at Module.require (node:internal/modules/cjs/loader:1061:19)
+        at require (node:internal/modules/cjs/helpers:103:18)
+        at Object.<anonymous> (D:\Desktop\AlJana\Backend\app\app.js:30:16)
+        at Module._compile (node:internal/modules/cjs/loader:1159:14)
+        at Module._extensions..js (node:internal/modules/cjs/loader:1213:10),
+    stack: 'ReferenceError: mo is not defined\n' +
+      '    at Object.<anonymous> (D:\\Desktop\\AlJana\\Backend\\app\\middleware\\logger.js:57:1)\n' +
+      '    at Module._compile (node:internal/modules/cjs/loader:1159:14)\n' +
+      '    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)\n' +
+      '    at Module.load (node:internal/modules/cjs/loader:1037:32)\n' +
+      '    at Module._load (node:internal/modules/cjs/loader:878:12)\n' +
+      '    at Module.require (node:internal/modules/cjs/loader:1061:19)\n' +
+      '    at require (node:internal/modules/cjs/helpers:103:18)\n' +
+      '    at Object.<anonymous> (D:\\Desktop\\AlJana\\Backend\\app\\app.js:30:16)\n' +
+      '    at Module._compile (node:internal/modules/cjs/loader:1159:14)\n' +
+      '    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)',
+    exception: true,
+    date: 'Sun Apr 16 2023 14:14:23 GMT+0200 (Eastern European Standard Time)',
+    process: {
+      pid: 15200,
+      uid: null,
+      gid: null,
+      cwd: 'D:\\Desktop\\AlJana\\Backend\\app',
+      execPath: 'C:\\Program Files\\nodejs\\node.exe',
+      version: 'v18.12.1',
+      argv: [
+        'C:\\Program Files\\nodejs\\node.exe',
+        'D:\\Desktop\\AlJana\\Backend\\app\\bin\\www'
+      ],
+      memoryUsage: {
+        rss: 64471040,
+        heapTotal: 33972224,
+        heapUsed: 21501416,
+        external: 19629975,
+        arrayBuffers: 18720483
+      }
+    },
+    os: { loadavg: [ 0, 0, 0 ], uptime: 379832 },
+    trace: [
+      {
+        column: 1,
+        file: 'D:\\Desktop\\AlJana\\Backend\\app\\middleware\\logger.js',
+        function: null,
+        line: 57,
+        method: null,
+        native: false
+      },
+      {
+        column: 14,
+        file: 'node:internal/modules/cjs/loader',
+        function: 'Module._compile',
+        line: 1159,
+        method: '_compile',
+        native: false
+      },
+      {
+        column: 10,
+        file: 'node:internal/modules/cjs/loader',
+        function: 'Module._extensions..js',
+        line: 1213,
+        method: '.js',
+        native: false
+      },
+      {
+        column: 32,
+        file: 'node:internal/modules/cjs/loader',
+        function: 'Module.load',
+        line: 1037,
+        method: 'load',
+        native: false
+      },
+      {
+        column: 12,
+        file: 'node:internal/modules/cjs/loader',
+        function: 'Module._load',
+        line: 878,
+        method: '_load',
+        native: false
+      },
+      {
+        column: 19,
+        file: 'node:internal/modules/cjs/loader',
+        function: 'Module.require',
+        line: 1061,
+        method: 'require',
+        native: false
+      },
+      {
+        column: 18,
+        file: 'node:internal/modules/cjs/helpers',
+        function: 'require',
+        line: 103,
+        method: null,
+        native: false
+      },
+      {
+        column: 16,
+        file: 'D:\\Desktop\\AlJana\\Backend\\app\\app.js',
+        function: null,
+        line: 30,
+        method: null,
+        native: false
+      },
+      {
+        column: 14,
+        file: 'node:internal/modules/cjs/loader',
+        function: 'Module._compile',
+        line: 1159,
+        method: '_compile',
+        native: false
+      },
+      {
+        column: 10,
+        file: 'node:internal/modules/cjs/loader',
+        function: 'Module._extensions..js',
+        line: 1213,
+        method: '.js',
+        native: false
+      }
+    ],
+    timestamp: '2023-04-16T12:14:23.440Z'
+  }
+}
+{
+  level: 'error',
+  message: 'HTTP GET /users',
+  metadata: {
+    meta: {
+      req: {
+        url: '/users',
+        headers: {
+          host: '127.0.0.1:53747',
+          'accept-encoding': 'gzip, deflate',
+          connection: 'close'
+        },
+        method: 'GET',
+        httpVersion: '1.1',
+        originalUrl: '/users',
+        query: {}
+      },
+      res: { statusCode: 500 },
+      responseTime: 399
+    },
+    timestamp: '2023-04-16T12:14:28.949Z'
+  }
+}
+{
+  level: 'warn',
+  message: 'HTTP POST /login',
+  metadata: {
+    meta: {
+      req: {
+        url: '/login',
+        headers: {
+          host: '127.0.0.1:53751',
+          'accept-encoding': 'gzip, deflate',
+          'content-type': 'application/json',
+          'content-length': '44',
+          connection: 'close'
+        },
+        method: 'POST',
+        httpVersion: '1.1',
+        originalUrl: '/login',
+        query: {}
+      },
+      res: { statusCode: 401 },
+      responseTime: 0
+    },
+    timestamp: '2023-04-16T12:14:28.958Z'
+  }
+}
+{
+  level: 'warn',
+  message: 'HTTP POST /login',
+  metadata: {
+    meta: {
+      req: {
+        url: '/login',
+        headers: {
+          host: '127.0.0.1:53753',
+          'accept-encoding': 'gzip, deflate',
+          'content-type': 'application/json',
+          'content-length': '53',
+          connection: 'close'
+        },
+        method: 'POST',
+        httpVersion: '1.1',
+        originalUrl: '/login',
+        query: {}
+      },
+      res: { statusCode: 401 },
+      responseTime: 1
+    },
+    timestamp: '2023-04-16T12:14:28.967Z'
+  }
+}
+{
+  level: 'error',
+  message: 'HTTP GET /users',
+  metadata: {
+    meta: {
+      req: {
+        url: '/users',
+        headers: {
+          host: '127.0.0.1:53961',
+          'accept-encoding': 'gzip, deflate',
+          connection: 'close'
+        },
+        method: 'GET',
+        httpVersion: '1.1',
+        originalUrl: '/users',
+        query: {}
+      },
+      res: { statusCode: 500 },
+      responseTime: 413
+    },
+    timestamp: '2023-04-16T12:16:47.974Z'
+  }
+}
+{
+  level: 'warn',
+  message: 'HTTP POST /login',
+  metadata: {
+    meta: {
+      req: {
+        url: '/login',
+        headers: {
+          host: '127.0.0.1:53965',
+          'accept-encoding': 'gzip, deflate',
+          'content-type': 'application/json',
+          'content-length': '44',
+          connection: 'close'
+        },
+        method: 'POST',
+        httpVersion: '1.1',
+        originalUrl: '/login',
+        query: {}
+      },
+      res: { statusCode: 401 },
+      responseTime: 1
+    },
+    timestamp: '2023-04-16T12:16:47.982Z'
+  }
+}
+{
+  level: 'warn',
+  message: 'HTTP POST /login',
+  metadata: {
+    meta: {
+      req: {
+        url: '/login',
+        headers: {
+          host: '127.0.0.1:53967',
+          'accept-encoding': 'gzip, deflate',
+          'content-type': 'application/json',
+          'content-length': '53',
+          connection: 'close'
+        },
+        method: 'POST',
+        httpVersion: '1.1',
+        originalUrl: '/login',
+        query: {}
+      },
+      res: { statusCode: 401 },
+      responseTime: 0
+    },
+    timestamp: '2023-04-16T12:16:47.992Z'
+  }
+}
+{
+  level: 'error',
+  message: 'HTTP GET /users',
+  metadata: {
+    meta: {
+      req: {
+        url: '/users',
+        headers: {
+          host: '127.0.0.1:54010',
+          'accept-encoding': 'gzip, deflate',
+          connection: 'close'
+        },
+        method: 'GET',
+        httpVersion: '1.1',
+        originalUrl: '/users',
+        query: {}
+      },
+      res: { statusCode: 500 },
+      responseTime: 377
+    },
+    timestamp: '2023-04-16T12:17:09.086Z'
+  }
+}
+{
+  level: 'warn',
+  message: 'HTTP POST /login',
+  metadata: {
+    meta: {
+      req: {
+        url: '/login',
+        headers: {
+          host: '127.0.0.1:54014',
+          'accept-encoding': 'gzip, deflate',
+          'content-type': 'application/json',
+          'content-length': '44',
+          connection: 'close'
+        },
+        method: 'POST',
+        httpVersion: '1.1',
+        originalUrl: '/login',
+        query: {}
+      },
+      res: { statusCode: 401 },
+      responseTime: 0
+    },
+    timestamp: '2023-04-16T12:17:09.094Z'
+  }
+}
+{
+  level: 'warn',
+  message: 'HTTP POST /login',
+  metadata: {
+    meta: {
+      req: {
+        url: '/login',
+        headers: {
+          host: '127.0.0.1:54016',
+          'accept-encoding': 'gzip, deflate',
+          'content-type': 'application/json',
+          'content-length': '53',
+          connection: 'close'
+        },
+        method: 'POST',
+        httpVersion: '1.1',
+        originalUrl: '/login',
+        query: {}
+      },
+      res: { statusCode: 401 },
+      responseTime: 0
+    },
+    timestamp: '2023-04-16T12:17:09.107Z'
+  }
+}
+{
+  level: 'error',
+  message: 'HTTP GET /users',
+  metadata: {
+    meta: {
+      req: {
+        url: '/users',
+        headers: {
+          host: '127.0.0.1:54121',
+          'accept-encoding': 'gzip, deflate',
+          connection: 'close'
+        },
+        method: 'GET',
+        httpVersion: '1.1',
+        originalUrl: '/users',
+        query: {}
+      },
+      res: { statusCode: 500 },
+      responseTime: 513
+    },
+    timestamp: '2023-04-16T12:18:32.682Z'
+  }
+}
+{
+  level: 'warn',
+  message: 'HTTP POST /login',
+  metadata: {
+    meta: {
+      req: {
+        url: '/login',
+        headers: {
+          host: '127.0.0.1:54125',
+          'accept-encoding': 'gzip, deflate',
+          'content-type': 'application/json',
+          'content-length': '44',
+          connection: 'close'
+        },
+        method: 'POST',
+        httpVersion: '1.1',
+        originalUrl: '/login',
+        query: {}
+      },
+      res: { statusCode: 401 },
+      responseTime: 1
+    },
+    timestamp: '2023-04-16T12:18:32.692Z'
+  }
+}
+{
+  level: 'warn',
+  message: 'HTTP POST /login',
+  metadata: {
+    meta: {
+      req: {
+        url: '/login',
+        headers: {
+          host: '127.0.0.1:54127',
+          'accept-encoding': 'gzip, deflate',
+          'content-type': 'application/json',
+          'content-length': '53',
+          connection: 'close'
+        },
+        method: 'POST',
+        httpVersion: '1.1',
+        originalUrl: '/login',
+        query: {}
+      },
+      res: { statusCode: 401 },
+      responseTime: 0
+    },
+    timestamp: '2023-04-16T12:18:32.703Z'
+  }
+}
+{
+  level: 'error',
+  message: 'HTTP GET /users',
+  metadata: {
+    meta: {
+      req: {
+        url: '/users',
+        headers: {
+          host: '127.0.0.1:54144',
+          'accept-encoding': 'gzip, deflate',
+          connection: 'close'
+        },
+        method: 'GET',
+        httpVersion: '1.1',
+        originalUrl: '/users',
+        query: {}
+      },
+      res: { statusCode: 500 },
+      responseTime: 394
+    },
+    timestamp: '2023-04-16T12:18:43.281Z'
+  }
+}
+{
+  level: 'warn',
+  message: 'HTTP POST /login',
+  metadata: {
+    meta: {
+      req: {
+        url: '/login',
+        headers: {
+          host: '127.0.0.1:54148',
+          'accept-encoding': 'gzip, deflate',
+          'content-type': 'application/json',
+          'content-length': '44',
+          connection: 'close'
+        },
+        method: 'POST',
+        httpVersion: '1.1',
+        originalUrl: '/login',
+        query: {}
+      },
+      res: { statusCode: 401 },
+      responseTime: 1
+    },
+    timestamp: '2023-04-16T12:18:43.292Z'
+  }
+}
+{
+  level: 'warn',
+  message: 'HTTP POST /login',
+  metadata: {
+    meta: {
+      req: {
+        url: '/login',
+        headers: {
+          host: '127.0.0.1:54152',
+          'accept-encoding': 'gzip, deflate',
+          'content-type': 'application/json',
+          'content-length': '53',
+          connection: 'close'
+        },
+        method: 'POST',
+        httpVersion: '1.1',
+        originalUrl: '/login',
+        query: {}
+      },
+      res: { statusCode: 401 },
+      responseTime: 0
+    },
+    timestamp: '2023-04-16T12:18:43.302Z'
+  }
+}
+{
+  level: 'error',
+  message: 'HTTP GET /users',
+  metadata: {
+    meta: {
+      req: {
+        url: '/users',
+        headers: {
+          host: '127.0.0.1:54183',
+          'accept-encoding': 'gzip, deflate',
+          connection: 'close'
+        },
+        method: 'GET',
+        httpVersion: '1.1',
+        originalUrl: '/users',
+        query: {}
+      },
+      res: { statusCode: 500 },
+      responseTime: 406
+    },
+    timestamp: '2023-04-16T12:19:08.164Z'
+  }
+}
+{
+  level: 'warn',
+  message: 'HTTP POST /login',
+  metadata: {
+    meta: {
+      req: {
+        url: '/login',
+        headers: {
+          host: '127.0.0.1:54187',
+          'accept-encoding': 'gzip, deflate',
+          'content-type': 'application/json',
+          'content-length': '44',
+          connection: 'close'
+        },
+        method: 'POST',
+        httpVersion: '1.1',
+        originalUrl: '/login',
+        query: {}
+      },
+      res: { statusCode: 401 },
+      responseTime: 1
+    },
+    timestamp: '2023-04-16T12:19:08.172Z'
+  }
+}
+{
+  level: 'warn',
+  message: 'HTTP POST /login',
+  metadata: {
+    meta: {
+      req: {
+        url: '/login',
+        headers: {
+          host: '127.0.0.1:54189',
+          'accept-encoding': 'gzip, deflate',
+          'content-type': 'application/json',
+          'content-length': '53',
+          connection: 'close'
+        },
+        method: 'POST',
+        httpVersion: '1.1',
+        originalUrl: '/login',
+        query: {}
+      },
+      res: { statusCode: 401 },
+      responseTime: 0
+    },
+    timestamp: '2023-04-16T12:19:08.182Z'
+  }
+}
+{
+  level: 'error',
+  message: 'HTTP GET /users',
+  metadata: {
+    meta: {
+      req: {
+        url: '/users',
+        headers: {
+          host: '127.0.0.1:54262',
+          'accept-encoding': 'gzip, deflate',
+          connection: 'close'
+        },
+        method: 'GET',
+        httpVersion: '1.1',
+        originalUrl: '/users',
+        query: {}
+      },
+      res: { statusCode: 500 },
+      responseTime: 381
+    },
+    timestamp: '2023-04-16T12:19:39.079Z'
+  }
+}
+{
+  level: 'warn',
+  message: 'HTTP POST /login',
+  metadata: {
+    meta: {
+      req: {
+        url: '/login',
+        headers: {
+          host: '127.0.0.1:54266',
+          'accept-encoding': 'gzip, deflate',
+          'content-type': 'application/json',
+          'content-length': '44',
+          connection: 'close'
+        },
+        method: 'POST',
+        httpVersion: '1.1',
+        originalUrl: '/login',
+        query: {}
+      },
+      res: { statusCode: 401 },
+      responseTime: 0
+    },
+    timestamp: '2023-04-16T12:19:39.092Z'
+  }
+}
+{
+  level: 'warn',
+  message: 'HTTP POST /login',
+  metadata: {
+    meta: {
+      req: {
+        url: '/login',
+        headers: {
+          host: '127.0.0.1:54268',
+          'accept-encoding': 'gzip, deflate',
+          'content-type': 'application/json',
+          'content-length': '53',
+          connection: 'close'
+        },
+        method: 'POST',
+        httpVersion: '1.1',
+        originalUrl: '/login',
+        query: {}
+      },
+      res: { statusCode: 401 },
+      responseTime: 1
+    },
+    timestamp: '2023-04-16T12:19:39.101Z'
+  }
+}
+{
+  level: 'error',
+  message: 'HTTP GET /users',
+  metadata: {
+    meta: {
+      req: {
+        url: '/users',
+        headers: {
+          host: '127.0.0.1:54290',
+          'accept-encoding': 'gzip, deflate',
+          connection: 'close'
+        },
+        method: 'GET',
+        httpVersion: '1.1',
+        originalUrl: '/users',
+        query: {}
+      },
+      res: { statusCode: 500 },
+      responseTime: 433
+    },
+    timestamp: '2023-04-16T12:19:54.293Z'
+  }
+}
+{
+  level: 'warn',
+  message: 'HTTP POST /login',
+  metadata: {
+    meta: {
+      req: {
+        url: '/login',
+        headers: {
+          host: '127.0.0.1:54294',
+          'accept-encoding': 'gzip, deflate',
+          'content-type': 'application/json',
+          'content-length': '44',
+          connection: 'close'
+        },
+        method: 'POST',
+        httpVersion: '1.1',
+        originalUrl: '/login',
+        query: {}
+      },
+      res: { statusCode: 401 },
+      responseTime: 0
+    },
+    timestamp: '2023-04-16T12:19:54.301Z'
+  }
+}
+{
+  level: 'warn',
+  message: 'HTTP POST /login',
+  metadata: {
+    meta: {
+      req: {
+        url: '/login',
+        headers: {
+          host: '127.0.0.1:54298',
+          'accept-encoding': 'gzip, deflate',
+          'content-type': 'application/json',
+          'content-length': '53',
+          connection: 'close'
+        },
+        method: 'POST',
+        httpVersion: '1.1',
+        originalUrl: '/login',
+        query: {}
+      },
+      res: { statusCode: 401 },
+      responseTime: 0
+    },
+    timestamp: '2023-04-16T12:19:54.313Z'
+  }
+}
+{
+  level: 'error',
+  message: 'HTTP GET /users',
+  metadata: {
+    meta: {
+      req: {
+        url: '/users',
+        headers: {
+          host: '127.0.0.1:54306',
+          'accept-encoding': 'gzip, deflate',
+          connection: 'close'
+        },
+        method: 'GET',
+        httpVersion: '1.1',
+        originalUrl: '/users',
+        query: {}
+      },
+      res: { statusCode: 500 },
+      responseTime: 391
+    },
+    timestamp: '2023-04-16T12:19:58.893Z'
+  }
+}
+{
+  level: 'warn',
+  message: 'HTTP POST /login',
+  metadata: {
+    meta: {
+      req: {
+        url: '/login',
+        headers: {
+          host: '127.0.0.1:54310',
+          'accept-encoding': 'gzip, deflate',
+          'content-type': 'application/json',
+          'content-length': '44',
+          connection: 'close'
+        },
+        method: 'POST',
+        httpVersion: '1.1',
+        originalUrl: '/login',
+        query: {}
+      },
+      res: { statusCode: 401 },
+      responseTime: 0
+    },
+    timestamp: '2023-04-16T12:19:58.901Z'
+  }
+}
+{
+  level: 'warn',
+  message: 'HTTP POST /login',
+  metadata: {
+    meta: {
+      req: {
+        url: '/login',
+        headers: {
+          host: '127.0.0.1:54313',
+          'accept-encoding': 'gzip, deflate',
+          'content-type': 'application/json',
+          'content-length': '53',
+          connection: 'close'
+        },
+        method: 'POST',
+        httpVersion: '1.1',
+        originalUrl: '/login',
+        query: {}
+      },
+      res: { statusCode: 401 },
+      responseTime: 0
+    },
+    timestamp: '2023-04-16T12:19:58.911Z'
+  }
+}
+{
+  level: 'error',
+  message: 'HTTP GET /users',
+  metadata: {
+    meta: {
+      req: {
+        url: '/users',
+        headers: {
+          host: '127.0.0.1:54354',
+          'accept-encoding': 'gzip, deflate',
+          connection: 'close'
+        },
+        method: 'GET',
+        httpVersion: '1.1',
+        originalUrl: '/users',
+        query: {}
+      },
+      res: { statusCode: 500 },
+      responseTime: 365
+    },
+    timestamp: '2023-04-16T12:20:24.267Z'
+  }
+}
+{
+  level: 'warn',
+  message: 'HTTP POST /login',
+  metadata: {
+    meta: {
+      req: {
+        url: '/login',
+        headers: {
+          host: '127.0.0.1:54358',
+          'accept-encoding': 'gzip, deflate',
+          'content-type': 'application/json',
+          'content-length': '44',
+          connection: 'close'
+        },
+        method: 'POST',
+        httpVersion: '1.1',
+        originalUrl: '/login',
+        query: {}
+      },
+      res: { statusCode: 401 },
+      responseTime: 0
+    },
+    timestamp: '2023-04-16T12:20:24.277Z'
+  }
+}
+{
+  level: 'warn',
+  message: 'HTTP POST /login',
+  metadata: {
+    meta: {
+      req: {
+        url: '/login',
+        headers: {
+          host: '127.0.0.1:54360',
+          'accept-encoding': 'gzip, deflate',
+          'content-type': 'application/json',
+          'content-length': '53',
+          connection: 'close'
+        },
+        method: 'POST',
+        httpVersion: '1.1',
+        originalUrl: '/login',
+        query: {}
+      },
+      res: { statusCode: 401 },
+      responseTime: 0
+    },
+    timestamp: '2023-04-16T12:20:24.288Z'
+  }
+}
+{
+  level: 'error',
+  message: 'HTTP GET /users',
+  metadata: {
+    meta: {
+      req: {
+        url: '/users',
+        headers: {
+          host: '127.0.0.1:54388',
+          'accept-encoding': 'gzip, deflate',
+          connection: 'close'
+        },
+        method: 'GET',
+        httpVersion: '1.1',
+        originalUrl: '/users',
+        query: {}
+      },
+      res: { statusCode: 500 },
+      responseTime: 684
+    },
+    timestamp: '2023-04-16T12:20:33.282Z'
+  }
+}
+{
+  level: 'warn',
+  message: 'HTTP POST /login',
+  metadata: {
+    meta: {
+      req: {
+        url: '/login',
+        headers: {
+          host: '127.0.0.1:54394',
+          'accept-encoding': 'gzip, deflate',
+          'content-type': 'application/json',
+          'content-length': '44',
+          connection: 'close'
+        },
+        method: 'POST',
+        httpVersion: '1.1',
+        originalUrl: '/login',
+        query: {}
+      },
+      res: { statusCode: 401 },
+      responseTime: 0
+    },
+    timestamp: '2023-04-16T12:20:33.293Z'
+  }
+}
+{
+  level: 'warn',
+  message: 'HTTP POST /login',
+  metadata: {
+    meta: {
+      req: {
+        url: '/login',
+        headers: {
+          host: '127.0.0.1:54397',
+          'accept-encoding': 'gzip, deflate',
+          'content-type': 'application/json',
+          'content-length': '53',
+          connection: 'close'
+        },
+        method: 'POST',
+        httpVersion: '1.1',
+        originalUrl: '/login',
+        query: {}
+      },
+      res: { statusCode: 401 },
+      responseTime: 1
+    },
+    timestamp: '2023-04-16T12:20:33.308Z'
+  }
+}
+{
+  level: 'error',
+  message: 'HTTP GET /users',
+  metadata: {
+    meta: {
+      req: {
+        url: '/users',
+        headers: {
+          host: '127.0.0.1:54414',
+          'accept-encoding': 'gzip, deflate',
+          connection: 'close'
+        },
+        method: 'GET',
+        httpVersion: '1.1',
+        originalUrl: '/users',
+        query: {}
+      },
+      res: { statusCode: 500 },
+      responseTime: 508
+    },
+    timestamp: '2023-04-16T12:20:38.389Z'
+  }
+}
+{
+  level: 'warn',
+  message: 'HTTP POST /login',
+  metadata: {
+    meta: {
+      req: {
+        url: '/login',
+        headers: {
+          host: '127.0.0.1:54418',
+          'accept-encoding': 'gzip, deflate',
+          'content-type': 'application/json',
+          'content-length': '44',
+          connection: 'close'
+        },
+        method: 'POST',
+        httpVersion: '1.1',
+        originalUrl: '/login',
+        query: {}
+      },
+      res: { statusCode: 401 },
+      responseTime: 1
+    },
+    timestamp: '2023-04-16T12:20:38.399Z'
+  }
+}
+{
+  level: 'warn',
+  message: 'HTTP POST /login',
+  metadata: {
+    meta: {
+      req: {
+        url: '/login',
+        headers: {
+          host: '127.0.0.1:54422',
+          'accept-encoding': 'gzip, deflate',
+          'content-type': 'application/json',
+          'content-length': '53',
+          connection: 'close'
+        },
+        method: 'POST',
+        httpVersion: '1.1',
+        originalUrl: '/login',
+        query: {}
+      },
+      res: { statusCode: 401 },
+      responseTime: 1
+    },
+    timestamp: '2023-04-16T12:20:38.409Z'
+  }
+}
+{
+  level: 'error',
+  message: 'HTTP GET /users',
+  metadata: {
+    meta: {
+      req: {
+        url: '/users',
+        headers: {
+          host: '127.0.0.1:54436',
+          'accept-encoding': 'gzip, deflate',
+          connection: 'close'
+        },
+        method: 'GET',
+        httpVersion: '1.1',
+        originalUrl: '/users',
+        query: {}
+      },
+      res: { statusCode: 500 },
+      responseTime: 507
+    },
+    timestamp: '2023-04-16T12:20:42.641Z'
+  }
+}
+{
+  level: 'warn',
+  message: 'HTTP POST /login',
+  metadata: {
+    meta: {
+      req: {
+        url: '/login',
+        headers: {
+          host: '127.0.0.1:54440',
+          'accept-encoding': 'gzip, deflate',
+          'content-type': 'application/json',
+          'content-length': '44',
+          connection: 'close'
+        },
+        method: 'POST',
+        httpVersion: '1.1',
+        originalUrl: '/login',
+        query: {}
+      },
+      res: { statusCode: 401 },
+      responseTime: 0
+    },
+    timestamp: '2023-04-16T12:20:42.649Z'
+  }
+}
+{
+  level: 'warn',
+  message: 'HTTP POST /login',
+  metadata: {
+    meta: {
+      req: {
+        url: '/login',
+        headers: {
+          host: '127.0.0.1:54443',
+          'accept-encoding': 'gzip, deflate',
+          'content-type': 'application/json',
+          'content-length': '53',
+          connection: 'close'
+        },
+        method: 'POST',
+        httpVersion: '1.1',
+        originalUrl: '/login',
+        query: {}
+      },
+      res: { statusCode: 401 },
+      responseTime: 0
+    },
+    timestamp: '2023-04-16T12:20:42.662Z'
+  }
+}
+{
+  level: 'error',
+  message: 'HTTP GET /users',
+  metadata: {
+    meta: {
+      req: {
+        url: '/users',
+        headers: {
+          host: '127.0.0.1:54458',
+          'accept-encoding': 'gzip, deflate',
+          connection: 'close'
+        },
+        method: 'GET',
+        httpVersion: '1.1',
+        originalUrl: '/users',
+        query: {}
+      },
+      res: { statusCode: 500 },
+      responseTime: 427
+    },
+    timestamp: '2023-04-16T12:20:52.392Z'
+  }
+}
+{
+  level: 'warn',
+  message: 'HTTP POST /login',
+  metadata: {
+    meta: {
+      req: {
+        url: '/login',
+        headers: {
+          host: '127.0.0.1:54462',
+          'accept-encoding': 'gzip, deflate',
+          'content-type': 'application/json',
+          'content-length': '44',
+          connection: 'close'
+        },
+        method: 'POST',
+        httpVersion: '1.1',
+        originalUrl: '/login',
+        query: {}
+      },
+      res: { statusCode: 401 },
+      responseTime: 0
+    },
+    timestamp: '2023-04-16T12:20:52.401Z'
+  }
+}
+{
+  level: 'warn',
+  message: 'HTTP POST /login',
+  metadata: {
+    meta: {
+      req: {
+        url: '/login',
+        headers: {
+          host: '127.0.0.1:54464',
+          'accept-encoding': 'gzip, deflate',
+          'content-type': 'application/json',
+          'content-length': '53',
+          connection: 'close'
+        },
+        method: 'POST',
+        httpVersion: '1.1',
+        originalUrl: '/login',
+        query: {}
+      },
+      res: { statusCode: 401 },
+      responseTime: 1
+    },
+    timestamp: '2023-04-16T12:20:52.410Z'
+  }
+}
+{
+  level: 'error',
+  message: 'HTTP GET /users',
+  metadata: {
+    meta: {
+      req: {
+        url: '/users',
+        headers: {
+          host: '127.0.0.1:54496',
+          'accept-encoding': 'gzip, deflate',
+          connection: 'close'
+        },
+        method: 'GET',
+        httpVersion: '1.1',
+        originalUrl: '/users',
+        query: {}
+      },
+      res: { statusCode: 500 },
+      responseTime: 372
+    },
+    timestamp: '2023-04-16T12:21:17.482Z'
+  }
+}
+{
+  level: 'warn',
+  message: 'HTTP POST /login',
+  metadata: {
+    meta: {
+      req: {
+        url: '/login',
+        headers: {
+          host: '127.0.0.1:54500',
+          'accept-encoding': 'gzip, deflate',
+          'content-type': 'application/json',
+          'content-length': '44',
+          connection: 'close'
+        },
+        method: 'POST',
+        httpVersion: '1.1',
+        originalUrl: '/login',
+        query: {}
+      },
+      res: { statusCode: 401 },
+      responseTime: 1
+    },
+    timestamp: '2023-04-16T12:21:17.489Z'
+  }
+}
+{
+  level: 'warn',
+  message: 'HTTP POST /login',
+  metadata: {
+    meta: {
+      req: {
+        url: '/login',
+        headers: {
+          host: '127.0.0.1:54502',
+          'accept-encoding': 'gzip, deflate',
+          'content-type': 'application/json',
+          'content-length': '53',
+          connection: 'close'
+        },
+        method: 'POST',
+        httpVersion: '1.1',
+        originalUrl: '/login',
+        query: {}
+      },
+      res: { statusCode: 401 },
+      responseTime: 0
+    },
+    timestamp: '2023-04-16T12:21:17.499Z'
+  }
+}
