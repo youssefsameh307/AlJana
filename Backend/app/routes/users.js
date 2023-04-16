@@ -14,9 +14,10 @@ getAllUsers = async function(req,res) {
 }
 
 addNewUser = async (req,res)=>{
-User.create(req.data.user).then((fin)=>{
+console.log(req);
+User.create(req.body.user).then((fin)=>{
   res.send({statusCode:200 , data:fin})
-}).catch((e)=>{
+}).catch((err)=>{
   res.send({statusCode : err.status, message : err.message})
   console.log(err.status)
 });
