@@ -1,6 +1,9 @@
 ### basic 
 GET http://localhost:3000/
 
+### get all users
+GET http://localhost:3000/users
+
 ### Login 
 POST http://localhost:3000/login
 Content-Type: application/json

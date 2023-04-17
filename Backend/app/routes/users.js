@@ -3,7 +3,7 @@ var router = express.Router();
 
 /* GET users listing. */
 router.get('/', function(req, res, next) {
-  return res.status(C.Status.OK).json({ message: "ok"});
+  return res.status(200).json({message: "Not implemented yet"});
 });
 
 

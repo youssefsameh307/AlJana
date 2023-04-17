@@ -5,11 +5,11 @@ it("tests are running", () => {
     .get("/users")
     .expect(200)
     .then((response) => {
-      //  console.log(response);
+      console.log(response);
     });
 });
 
-// region: test for JWT
+//#region JWT Token
 describe("Test the JWT Creation", () => {
   //#region test for user successful login
   it("POST /login -> should return correct JWT token", () => {
@@ -62,11 +62,70 @@ describe("Test the JWT Creation", () => {
 });
 
 describe("Test the JWT Middleware", () => {
-    it("GET /tickets unauthorized -> should redirect to /login", () => {
-        return request(app)
-            .get("/tickets")
-            .expect(302) // unauthorized
-            .expect("Location", "/login"); // redirect to login
-    });
+  it("GET /tickets unauthorized -> should redirect to /login", () => {
+    return request(app)
+      .get("/tickets")
+      .expect(302) // unauthorized
+      .expect("Location", "/login"); // redirect to login
+  });
 });
-// end region: test for JWT
+//#endregion JWT Token
+
+//#region User Tickets
+describe("Test the User Tickets", () => {
+  // Initialize vaiables
+  let user1_token = "";
+  // before all tests start, login
+  beforeAll(async () => {
+    let user = {
+      username: "user1",
+      password: "user1",
+    };
+    return request(app)
+      .post("/login")
+      .send(user)
+      .expect(200) // sucessful login;
+      .expect("Content-Type", /json/) // sends json
+      .expect((res) => {
+        expect(res.body).toHaveProperty("token"); // token is present
+      })
+      .then((response) => {
+        user1_token = response.body.token;
+      });
+  });
+
+  console.log(user1_token);
+  //#region test for user successful login
+  let users = [
+    {
+      username: "user1",
+      password: "user1",
+    },
+    {
+      username: "user2",
+      password: "user2",
+    },
+  ];
+  let user1 = users[0];
+  let user2 = users[1];
+
+  it("GET /tickets -> should return user1 tickets", () => {
+    return request(app)
+      .get("/tickets")
+      .set("Authorization", `Bearer ${user1_token}`)
+      .expect(200) // sucessful login
+      .expect("Content-Type", /json/) // sends json
+
+      .expect((res) => {
+        expect(res.body).toHaveProperty("tickets"); // tickets are present
+        expect(res.body.tickets).toHaveLength(2); // tickets are present
+        // make sure they are the same tickets as above
+        expect(res.body.tickets[0]).toHaveProperty("id", 1);
+        expect(res.body.tickets[0]).toHaveProperty("title", "user1 ticket 1");
+        expect(res.body.tickets[1]).toHaveProperty("id", 2);
+        expect(res.body.tickets[1]).toHaveProperty("title", "user1 ticket 2");
+      });
+  });
+});
+
+//#endregion User Tickets

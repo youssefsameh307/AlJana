@@ -28,7 +28,7 @@ router.post("/", function (req, res, next) {
   if (users[username]) {
     if (users[username].password === password) {
       // from now on we'll identify the user by the id and the id is the only personalized value that goes into our token
-      const payload = { id: users[username].id };
+      const payload = { id: users[username].id, username: users[username].username };
       const token = jwt.sign(payload, access_token);
       res.json({ message: "ok", token: token });
     } else {
