@@ -10,6 +10,7 @@ let authmiddleware = require("./middleware/authmiddleware.js");
 
 var indexRouter = require("./routes/index");
 var usersRouter = require("./routes/users");
+var scheduleRouter = require("./routes/schedule")
 let userLogin = require("./routes/userLogin.js");
 let userTickets = require("./routes/userTickets.js");
 
@@ -86,6 +87,7 @@ app.use(
 app.use("/", indexRouter);
 app.use("/users", usersRouter);
 app.use("/login", userLogin);
+app.use("/schedule",scheduleRouter);
 app.use("/tickets", authmiddleware, userTickets);
 //#endregion
 //#region : error handling

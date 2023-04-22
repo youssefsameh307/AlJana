@@ -3,8 +3,9 @@ const Schema = mongoose.Schema;
 
 const usersSchema = new Schema({
     name:{
-        type:String,
-        required:true
+        type:String, //unique
+        required:true,
+        unique: true
     },
     dateOfBirth:{
         type:Date,
@@ -14,30 +15,30 @@ const usersSchema = new Schema({
         type:String,
         required:true
     },
+    idNumber:{
+        type:Number,
+        required:true
+    },
     address:{
         type:String,
         required:true
     },
-    picture:{
+    email:{
         type:String,
+        required:true,
+        unique:true,
+        validate:{
+            message: "must be in a valid email format",
+            validator: (input) => {
+                pattern = /^.+@.+\..+$/i
+                return pattern.test(input)
+            }
+        }
     },
-    motherAge:{
+    password:{
         type:String,
-    },
-    fatherAge:{
-        type:String,
-    },
-    motherJob:{
-        type:String,
-    },
-    fatherJob:{
-        type:String,
-    },
-    numberOfSiblings:{
-        type:Number
-    },
-    orderInSiblings:{
-        type:Number
+        minLength:8,
+        required:true
     }
 });
 
