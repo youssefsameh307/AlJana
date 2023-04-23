@@ -23,7 +23,7 @@ Schedule.create(newSchedule).then((fin)=>{
 }
 
 const editSchedule = async function(req,res) {
-    await Schedule.findOneAndUpdate({userId:Id},req.body.schedule)
+    await Schedule.findOneAndUpdate({userId:req.params.Id},req.body.schedule)
     .then((schedule) => {
         res.send({statusCode:200 , data:schedule})
     })
