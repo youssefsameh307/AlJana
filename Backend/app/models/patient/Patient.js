@@ -5,6 +5,8 @@ const patientsSchema = new Schema({
     userId:{
         type:mongoose.Schema.Types.ObjectId,
         ref: 'users',
+        unique:true,
+        unique,
         required:true,
     },
     picture:{

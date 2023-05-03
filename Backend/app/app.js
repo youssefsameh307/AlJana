@@ -77,18 +77,21 @@ app.use(express.static(path.join(__dirname, "public")));
 const winston = require("winston");
 
 const logger = require("./middleware/logger.js");
+const verifyToken = require("./middleware/authmiddleware.js");
 
 // set up logger before routes
-app.use(
-  expresWinston.logger({
-    winstonInstance: logger,
-    statusLevels: true,
-  })
-);
+// app.use(
+//   expresWinston.logger({
+//     winstonInstance: logger,
+//     statusLevels: true,
+//   })
+// );
+
+
 //#endregion
 //#region : routes
 app.use("/", indexRouter);
-app.use("/users", usersRouter);
+app.use("/users",verifyToken ,usersRouter);
 app.use("/login", userLogin);
 app.use("/schedule",scheduleRouter);
 app.use("/feedback",feedbackRouter);

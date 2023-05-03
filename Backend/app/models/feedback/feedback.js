@@ -7,6 +7,10 @@ const feedbackSchema = new Schema({
         ref: 'update',
         required:true,
     },
+    content:{
+        type:String,
+        required:true,
+    },
     response:{
         type:String,
         required:false,

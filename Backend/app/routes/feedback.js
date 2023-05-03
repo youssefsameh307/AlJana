@@ -26,7 +26,7 @@ const editFeedback = async function(req,res) {
 }
 
 const addResponse = async function(req,res) {
-    await Feedback.findOneAndFeedback({feedbackId:req.params.Id}, {response:req.body.response})
+    await Feedback.findOneAndUpdate({_id:req.params.Id}, {response:req.body.response})
     .then((feedback) => {
         res.send({statusCode:200 , data:feedback})
     })
@@ -46,7 +46,7 @@ const getAllFeedbacks = async function(req,res) {
         console.log(err.status)})
 }
 
-const getFeedbackByUserId = async function(req,res) {
+const getFeedbackByUpdateId = async function(req,res) {
     await Feedback.find({userId:req.params.Id})
     .then((feedback) => {
         res.send({statusCode:200 , data:feedback})
@@ -68,10 +68,10 @@ router.post('/', addNewFeedback);
 
 router.get('/all', getAllFeedbacks);
 
-router.get('/:Id', getFeedbackByUserId);
+router.get('/:Id', getFeedbackByUpdateId);
 
 router.patch('/:Id', editFeedback);
 
-router.post('/:Id/respond', addResponse);
+router.post('/:Id/response', addResponse);
 
 module.exports = router;

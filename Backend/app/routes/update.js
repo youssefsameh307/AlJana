@@ -15,8 +15,9 @@ Update.create(update).then((fin)=>{
 }
 
 const editUpdate = async function(req,res) {
-    await Update.findOneAndUpdate({updateId:req.params.Id}, req.body.update)
+    await Update.findOneAndUpdate({_id:req.params.Id}, req.body.update)
     .then((update) => {
+        console.log(update);
         res.send({statusCode:200 , data:update})
     })
     .catch( (err) => {
