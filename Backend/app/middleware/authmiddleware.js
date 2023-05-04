@@ -21,13 +21,13 @@ function verifyToken(req, res, next) {
     req.user = decoded; // There is always a user 
     next();
   } catch (err) {
-    // Redirect to login page if token is invalid
+    console.log(err)
     onTokenFailure(req, res, next);
   }
 }
 
 function onTokenFailure(req, res, next) {
-  res.redirect("/login");
+  res.send({statusCode:403 , error:"not logged in"})
 }
 
 module.exports = verifyToken;
