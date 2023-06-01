@@ -75,7 +75,6 @@ app.use(express.static(path.join(__dirname, "public")));
 //#endregion
 //#region : Logger
 const winston = require("winston");
-
 const logger = require("./middleware/logger.js");
 const verifyToken = require("./middleware/authmiddleware.js");
 

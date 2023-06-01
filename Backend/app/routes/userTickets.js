@@ -6,33 +6,26 @@ const logger = require("../middleware/logger");
 const access_token = process.env.ACCESS_TOKEN_SECRET;
 // ! TODO Make real authentication
 const tickets = {
-  user1: [
+  "kiIjrP1Fg1gwZ2LwnaErXpvf2O22": [
     {
-        id: 1,
-        title: "ticket 1",
+      id: 1,
+      title: "title1",
     },
     {
-        id: 2,
-        title: "ticket 2",
+      id: 2,
+      title: "title2",
     },
   ],
-  user2: {
-    id: 3,
-    title: "ticket 3",
-  },
-  user3: {
-    id: 4,
-    title: "ticket 4",
-  },
 };
 
 //#region user tickets
 router.get("/", function (req, res, next) {
   // User is already authenticated and all user data is in the req.user object
   let user = req.user;
-  let userTickets = tickets[user.username];
+  logger.info("User: " + JSON.stringify(user) )
+  let userTickets = tickets[user.user_id];
   logger.info("User Tickets: " + userTickets + " for user: " + JSON.stringify(user) )
-  // send the tickets
+  // // send the tickets
   res.status(200).json({'tickets': userTickets});
 });
 //#endregion

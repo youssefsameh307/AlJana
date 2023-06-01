@@ -6,3 +6,6 @@ node_modules
 
 # ignore logs files
 *.log
+# ignore service account file
+serviceAccountKey.json
+```
